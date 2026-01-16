@@ -1,0 +1,85 @@
+# Ignore build artifacts
+/target/
+**/*.rs.bk
+*.pdb
+
+# Anchor specific
+.anchor/
+test-ledger/
+.DS_Store
+
+# IDL and types
+*.json
+/types/
+
+# Solana artifacts
+*.so
+*.so.*
+deploy/
+test-ledger/
+
+# Node modules
+node_modules/
+dist/
+package-lock.json
+yarn.lock
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Build directories
+build/
+out/
+dist/
+
+# Keys and secrets (CRITICAL!)
+*.key
+*.keypair
+id.json
+wallet.json
+*-keypair.json
+keys/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Cache
+.cache/
+.parcel-cache/
+
+# Temporary files
+*.tmp
+*.temp
+.tmp/
+
+# Rust specific
+Cargo.lock
+**/*.rs.bk
+*.orig
+
+# Test artifacts
+.test/
+coverage/

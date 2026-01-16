@@ -1,0 +1,2 @@
+solana_program::program_error::ProgramError
+pinocchio::solana_program_error::ProgramError

@@ -1,0 +1,10 @@
+/mnt/c/Users/adanu/OneDrive/edoh-supperteam-platform/blueshift_anchor_escrow/target/debug/deps/cargo_toml-1d75e0062c1916e6.d: /home/edoh_onuh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_toml-0.19.2/src/cargo_toml.rs /home/edoh_onuh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_toml-0.19.2/src/afs.rs /home/edoh_onuh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_toml-0.19.2/src/error.rs /home/edoh_onuh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_toml-0.19.2/src/inheritable.rs
+
+/mnt/c/Users/adanu/OneDrive/edoh-supperteam-platform/blueshift_anchor_escrow/target/debug/deps/libcargo_toml-1d75e0062c1916e6.rlib: /home/edoh_onuh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_toml-0.19.2/src/cargo_toml.rs /home/edoh_onuh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_toml-0.19.2/src/afs.rs /home/edoh_onuh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_toml-0.19.2/src/error.rs /home/edoh_onuh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_toml-0.19.2/src/inheritable.rs
+
+/mnt/c/Users/adanu/OneDrive/edoh-supperteam-platform/blueshift_anchor_escrow/target/debug/deps/libcargo_toml-1d75e0062c1916e6.rmeta: /home/edoh_onuh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_toml-0.19.2/src/cargo_toml.rs /home/edoh_onuh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_toml-0.19.2/src/afs.rs /home/edoh_onuh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_toml-0.19.2/src/error.rs /home/edoh_onuh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_toml-0.19.2/src/inheritable.rs
+
+/home/edoh_onuh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_toml-0.19.2/src/cargo_toml.rs:
+/home/edoh_onuh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_toml-0.19.2/src/afs.rs:
+/home/edoh_onuh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_toml-0.19.2/src/error.rs:
+/home/edoh_onuh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_toml-0.19.2/src/inheritable.rs:

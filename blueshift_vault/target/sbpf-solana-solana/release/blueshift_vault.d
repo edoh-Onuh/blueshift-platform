@@ -1,0 +1,1 @@
+/mnt/c/Users/adanu/OneDrive/edoh-supperteam-platform/blueshift_vault/target/sbpf-solana-solana/release/blueshift_vault.so: /mnt/c/Users/adanu/OneDrive/edoh-supperteam-platform/blueshift_vault/src/instructions.rs /mnt/c/Users/adanu/OneDrive/edoh-supperteam-platform/blueshift_vault/src/lib.rs

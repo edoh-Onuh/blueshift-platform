@@ -1,0 +1,10 @@
+/mnt/c/Users/adanu/OneDrive/edoh-supperteam-platform/blueshift_anchor_escrow/target/release/deps/libversion_check-b32595ddd46d890a.rmeta: /home/edoh_onuh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/lib.rs /home/edoh_onuh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/version.rs /home/edoh_onuh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/channel.rs /home/edoh_onuh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/date.rs
+
+/mnt/c/Users/adanu/OneDrive/edoh-supperteam-platform/blueshift_anchor_escrow/target/release/deps/libversion_check-b32595ddd46d890a.rlib: /home/edoh_onuh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/lib.rs /home/edoh_onuh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/version.rs /home/edoh_onuh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/channel.rs /home/edoh_onuh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/date.rs
+
+/mnt/c/Users/adanu/OneDrive/edoh-supperteam-platform/blueshift_anchor_escrow/target/release/deps/version_check-b32595ddd46d890a.d: /home/edoh_onuh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/lib.rs /home/edoh_onuh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/version.rs /home/edoh_onuh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/channel.rs /home/edoh_onuh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/date.rs
+
+/home/edoh_onuh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/lib.rs:
+/home/edoh_onuh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/version.rs:
+/home/edoh_onuh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/channel.rs:
+/home/edoh_onuh/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.5/src/date.rs:

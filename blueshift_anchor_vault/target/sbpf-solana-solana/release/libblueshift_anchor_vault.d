@@ -1,0 +1,1 @@
+/mnt/c/Users/adanu/OneDrive/edoh-supperteam-platform/blueshift_anchor_vault/target/sbpf-solana-solana/release/libblueshift_anchor_vault.rlib: /mnt/c/Users/adanu/OneDrive/edoh-supperteam-platform/blueshift_anchor_vault/programs/blueshift_anchor_vault/src/lib.rs
