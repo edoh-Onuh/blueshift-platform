@@ -15,7 +15,7 @@ test-ledger/
 # Solana artifacts
 # *.so - Commented out to include compiled programs
 # *.so.* - Commented out to include compiled programs
-deploy/
+# deploy/ - Commented out to include deployment keypairs
 test-ledger/
 
 # Node modules
