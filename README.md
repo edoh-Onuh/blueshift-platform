@@ -8,7 +8,7 @@
 
 ## 📋 Overview
 
-Blueshift is a comprehensive DeFi infrastructure platform providing battle-tested primitives for flash loans, vaults, and escrow operations on Solana. With **176,000+ lines** of auditable Rust code, we enable protocols to integrate advanced DeFi functionality without building from scratch.
+Blueshift Projects Platform is a comprehensive DeFi infrastructure platform providing battle-tested primitives for flash loans, vaults, and escrow operations on Solana. With **176,000+ lines** of auditable Rust code, we enable protocols to integrate advanced DeFi functionality without building from scratch.
 
 ### 🎯 Core Programs
 
@@ -323,7 +323,7 @@ This project will be open-sourced under [GPL-3.0 License](./LICENSE) following c
 
 ## 📧 Contact
 
-**Projects Developer:** Edoh Onuh  
+**Projects Developer:** John Edoh Onuh  
 **GitHub:** [@edoh-onuh](https://github.com/edoh-onuh)  
 - **Twitter**: [@Adanubrown](https://x.com/Adanubrown)
 - **Email**: adanu1947@gmail.com
