@@ -1,2 +1,0 @@
-for<'a, 'b, 'c> fn(&'a Address, &'b [AccountView], &'c [u8]) -> Result<(), pinocchio::solana_program_error::ProgramError>
-for<'a, 'b, 'c, 'd> fn(&'a Pubkey, &'b [AccountInfo<'c>], &'d [u8]) -> Result<(), solana_program::program_error::ProgramError> {process_instruction}
