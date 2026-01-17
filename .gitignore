@@ -13,8 +13,8 @@ test-ledger/
 /types/
 
 # Solana artifacts
-*.so
-*.so.*
+# *.so - Commented out to include compiled programs
+# *.so.* - Commented out to include compiled programs
 deploy/
 test-ledger/
 
