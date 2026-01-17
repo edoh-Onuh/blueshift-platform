@@ -20,7 +20,7 @@ Blueshift is a comprehensive DeFi infrastructure platform providing battle-teste
 | 🔒 **secp256r1 Vault** | 🧪 Experimental | 265 | Advanced cryptographic vault |
 | ⚡ **Pinocchio Vault** | 🧪 Experimental | 168 | Optimized native implementation |
 
-**Total:** 7 program implementations • 176,249 lines of Rust code
+**Total:** 6 program implementations • 176,249 lines of Rust code
 
 ---
 
@@ -170,7 +170,6 @@ blueshift-platform/
 ├── blueshift_anchor_escrow/        # Escrow protocol (Anchor)
 ├── blueshift_secp256r1_vault/      # Cryptographic vault
 ├── blueshift_vault/                # Vault (Pinocchio)
-├── blueshift_escrow/               # Escrow (Pinocchio)
 └── blueshift-pinocchio-quantum-vault/  # Quantum-resistant experiments
 ```
 
@@ -295,16 +294,7 @@ const flashLoan = await program.methods
 - [**Integration Guide**](./docs/INTEGRATION.md) - How to integrate Blueshift
 - [**API Reference**](./docs/API.md) - Complete API documentation
 
----
 
-## 🌐 Community & Support
-
-- **Twitter/X:** [@BlueshiftDeFi](https://twitter.com/BlueshiftDeFi) (coming soon)
-- **Discord:** [Join our server](https://discord.gg/blueshift) (coming soon)
-- **Telegram:** [Developer chat](https://t.me/blueshift) (coming soon)
-- **Email:** dev@blueshift.xyz
-
----
 
 ## 🙏 Acknowledgments
 
@@ -333,13 +323,11 @@ This project will be open-sourced under [GPL-3.0 License](./LICENSE) following c
 
 ## 📧 Contact
 
-**Project Lead:** Edoh Onuh  
+**Projects Developer:** Edoh Onuh  
 **GitHub:** [@edoh-onuh](https://github.com/edoh-onuh)  
-**Email:** [Your Email]
+- **Twitter**: [@Adanubrown](https://x.com/Adanubrown)
+- **Email**: adanu1947@gmail.com
 
-**For Partnership Inquiries:** partnerships@blueshift.xyz  
-**For Security Issues:** security@blueshift.xyz  
-**For General Questions:** hello@blueshift.xyz
 
 ---
 
@@ -349,7 +337,7 @@ This project will be open-sourced under [GPL-3.0 License](./LICENSE) following c
 
 **Building the infrastructure for Solana's DeFi future**
 
-[Apply for Audit Subsidy](https://earn.superteam.fun) • [Read Docs](./docs) • [Join Community](#)
+[Apply for Audit Subsidy](https://earn.superteam.fun) 
 
 </div>
 
